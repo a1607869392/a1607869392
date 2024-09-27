@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a1607869392
 - 👀 I’m interested in play games
-- 🌱 I’m currently learning Andriod and c++
+- 🌱 I’m currently learning Andriod and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
